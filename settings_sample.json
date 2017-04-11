@@ -1,0 +1,28 @@
+{
+    "google_shortener_api_key": "",
+    "form_url": "https://form.jotformeu.com/70951852491361",
+    "data_set_file": "2016/members.csv",
+    "output_file": "2016/contact_updated_short.csv",
+    "data_map": {
+            "nomEntreprise": 1,
+            "adresse1": 2,
+            "adresse2": 3,
+            "ville": 5,
+            "codePostal": 4,
+            "activite": 6,
+            "statutJuridique": 7,
+            "siret": 9,
+            "cp_nom[first]": 13,
+            "cp_nom[last]": 14,
+            "fonction": 15,
+            "mobileOu": 16,
+            "email5": 17,
+            "prenom[first]": 18,
+            "prenom[last]": 19,
+            "fonctionsuppleant": 20,
+            "mobileOu23": 21,
+            "emailsuppleant": 22
+        },
+    "phone_numbers": [16,22],
+    "main_email_field": 17
+}
